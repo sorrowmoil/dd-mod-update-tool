@@ -9,6 +9,15 @@
 
 ---
 
+
+## 界面预览
+
+| MOD 归档工作台 | 外观材质与存储设置 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/10e38eb6-8e7f-4833-b28c-da33389893ad" alt="MOD 归档工作台" width="100%" /> | <img src="https://github.com/user-attachments/assets/a717d927-f44f-4942-9402-8e91c23ed8d8" alt="外观材质与存储设置" width="100%" /> |
+
+
+
 ## 核心特性
 
 - **源目录只读与安全沙盒**：所有压缩、XML 生成与上传操作均在独立归档工作区的副本中完成，绝不修改原始 MOD，也绝不把原工坊 ID 误写为自己的更新目标。
