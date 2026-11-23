@@ -1,0 +1,6 @@
+# DD Workshop Studio - Runtime Dependencies
+PySide6>=6.12.0
+Pillow>=12.3.0
+
+# Optional: packaging to Windows .exe
+# pyinstaller>=6.0.0
